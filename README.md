@@ -7,6 +7,7 @@
 ## Steps to get the simple webex bot working
 
 1. Create a Webex bot (save the API access token and username): https://developer.webex.com/my-apps/new/bot
+1. Rename `.env.local` to `.env`
 
 1. Edit `.env` with the following values:
 
