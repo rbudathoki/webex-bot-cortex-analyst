@@ -42,7 +42,7 @@ The [webex-node-bot-framework](https://github.com/WebexCommunity/webex-node-bot-
 1. Login to your snowflake account. If you do not have one, create free account from [here](https://signup.snowflake.com/?utm_cta=trial-en-www-homepage-top-right-nav-ss-evg&_ga=2.55182251.1247825864.1741244127-768819658.1703016241)
 1. Run setup.sql from data folder
 1. Load 3 csv files to newly created tables
-1. Upload revenue_timeseries.yaml file to new create mystage location inside your CORTEXANALYST schema
+1. Upload revenue_timeseries.yaml file to newly created mystage location inside your CORTEXANALYST schema
 1. Data setup is completed
 
 ## Steps to create key pair authentication for snowflake
